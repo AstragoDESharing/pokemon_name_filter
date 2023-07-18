@@ -1,1 +1,5 @@
-# Python Poetry (3.9) Template by AstragoDE
+# Pokemon name filter
+
+## Description
+
+This is a simple script to filter certain pokemon names from a list of pokemon names.
