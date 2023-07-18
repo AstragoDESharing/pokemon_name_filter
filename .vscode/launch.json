@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    // {
+    //   "name": "Python: Poetry CLI application",
+    //   "type": "python",
+    //   "request": "launch",
+    //   "module": "poetry",
+    //   "args": ["run", "${workspaceRoot}/src/main.py"],
+    //   "console": "integratedTerminal",
+    //   "justMyCode": true
+    // }
+  ]
+}
